@@ -1,0 +1,15 @@
+.q {
+    background-color: #1A1A1A;
+    border-bottom-right-radius: 80px;
+    width: 700px;
+    padding: 20px;
+    z-index: 1;
+}
+
+.q1 {
+    width: 850px;
+    height: 550px;
+    position: absolute;
+    z-index: 0;
+    left: 40%;
+}
